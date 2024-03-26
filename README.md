@@ -1,2 +1,4 @@
-# liver_learning
-A repository for TM10007 Machine Learning, dataset 2: liver tumours
+# TM10007_PROJECT
+
+Read the project guidelines (TM10007_projectguidelines) and work out your solution in the Jupyter Notebook (assignment.ipynb).
+NB: for the ECG dataset, please unzip the file 'ecg.zip' before loading it.
